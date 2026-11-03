@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dashboardly": {
+      "type": "http",
+      "url": "https://mcp.dashboardly.io/mcp/dashboardly"
+    }
+  }
+}

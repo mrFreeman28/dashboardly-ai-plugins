@@ -1,0 +1,18 @@
+{
+  "name": "dashboardly",
+  "owner": {
+    "name": "Dashboardly"
+  },
+  "metadata": {
+    "description": "Dashboardly read-only connection review, manual offer modeling, and supplied-evidence CRO",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dashboardly",
+      "source": "./plugins/dashboardly",
+      "version": "1.0.0",
+      "description": "Review authorized shop access, model supplied offers, and compare supplied creative evidence."
+    }
+  ]
+}
