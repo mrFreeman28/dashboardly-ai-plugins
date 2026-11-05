@@ -4,15 +4,15 @@
     "name": "Dashboardly"
   },
   "metadata": {
-    "description": "Dashboardly read-only connection review, manual offer modeling, and supplied-evidence CRO",
-    "version": "1.0.0"
+    "description": "Dashboardly read-only shop sales, profit and advertising, connection review, manual offer modeling and supplied-evidence CRO",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "dashboardly",
       "source": "./plugins/dashboardly",
-      "version": "1.0.0",
-      "description": "Review authorized shop access, model supplied offers, and compare supplied creative evidence."
+      "version": "1.1.0",
+      "description": "Read authorized shop sales, profit and imported advertising; review access, model supplied offers and compare supplied creative evidence."
     }
   ]
 }
