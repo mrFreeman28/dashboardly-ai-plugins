@@ -31,7 +31,7 @@ Disconnect Dashboardly in your assistant and revoke the connection through the a
 
 ## Rights and terms
 
-Copyright 2026 DASHBOARDLY INC. All rights reserved. Use of Dashboardly is governed by https://www.dashboardly.io/terms-of-service and https://www.dashboardly.io/privacy-policy. This notice does not grant an open-source license or permission to redistribute the bundle outside an owner-approved provider distribution.
+Copyright 2026 DASHBOARDLY INC. All rights reserved. Use of Dashboardly is governed by https://www.dashboardly.io/terms-of-service and https://help.dashboardly.io/legal/dashboardly-ai-privacy-policy.html. This notice does not grant an open-source license or permission to redistribute the bundle outside an owner-approved provider distribution.
 
 ## Availability
 
